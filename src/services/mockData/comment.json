@@ -1,0 +1,37 @@
+[
+  {
+    "Id": 1,
+    "postId": 1,
+    "userId": "sarah_wilson",
+    "text": "Absolutely stunning! 😍",
+    "timestamp": 1699891800000
+  },
+  {
+    "Id": 2,
+    "postId": 1,
+    "userId": "mike_adventure",
+    "text": "Great shot! What camera did you use?",
+    "timestamp": 1699892100000
+  },
+  {
+    "Id": 3,
+    "postId": 2,
+    "userId": "emma_creative",
+    "text": "This looks so peaceful! 🌿",
+    "timestamp": 1699805400000
+  },
+  {
+    "Id": 4,
+    "postId": 3,
+    "userId": "john_doe",
+    "text": "Amazing view! How long was the climb?",
+    "timestamp": 1699719000000
+  },
+  {
+    "Id": 5,
+    "postId": 4,
+    "userId": "alex_foodie",
+    "text": "Coffee is life! ☕",
+    "timestamp": 1699632600000
+  }
+]

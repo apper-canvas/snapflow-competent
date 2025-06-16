@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "username": "john_doe",
+    "bio": "Photography enthusiast 📸 | Travel lover ✈️ | Coffee addict ☕",
+    "profilePic": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=150&h=150&fit=crop&crop=face",
+    "followers": 1234,
+    "following": 567
+  },
+  {
+    "Id": 2,
+    "username": "sarah_wilson",
+    "bio": "Digital artist 🎨 | Nature lover 🌿 | Vegan lifestyle advocate 🌱",
+    "profilePic": "https://images.unsplash.com/photo-1494790108755-2616c9e5e8d1?w=150&h=150&fit=crop&crop=face",
+    "followers": 2891,
+    "following": 423
+  },
+  {
+    "Id": 3,
+    "username": "mike_adventure",
+    "bio": "Adventure seeker 🏔️ | Outdoor photographer | Living life to the fullest!",
+    "profilePic": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+    "followers": 5672,
+    "following": 1891
+  },
+  {
+    "Id": 4,
+    "username": "emma_creative",
+    "bio": "UI/UX Designer ✨ | Creative thinker | Spreading good vibes 🌈",
+    "profilePic": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=150&h=150&fit=crop&crop=face",
+    "followers": 3456,
+    "following": 789
+  },
+  {
+    "Id": 5,
+    "username": "alex_foodie",
+    "bio": "Food blogger 🍕 | Recipe creator | Spreading love through food ❤️",
+    "profilePic": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=150&h=150&fit=crop&crop=face",
+    "followers": 8923,
+    "following": 2341
+  }
+]

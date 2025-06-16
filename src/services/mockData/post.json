@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "userId": "john_doe",
+    "imageUrl": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=500&h=500&fit=crop",
+    "caption": "Sunset vibes at the beach 🌅 Nothing beats this peaceful moment #sunset #beach #peaceful",
+    "hashtags": ["sunset", "beach", "peaceful", "photography"],
+    "likes": 124,
+    "comments": [],
+    "timestamp": 1699891200000,
+    "isLiked": false,
+    "isSaved": false
+  },
+  {
+    "Id": 2,
+    "userId": "sarah_wilson",
+    "imageUrl": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?w=500&h=500&fit=crop",
+    "caption": "Lost in the forest, found in nature 🌲✨ #nature #forest #hiking #adventure",
+    "hashtags": ["nature", "forest", "hiking", "adventure"],
+    "likes": 89,
+    "comments": [],
+    "timestamp": 1699804800000,
+    "isLiked": true,
+    "isSaved": false
+  },
+  {
+    "Id": 3,
+    "userId": "mike_adventure",
+    "imageUrl": "https://images.unsplash.com/photo-1464822759844-d150baef493e?w=500&h=500&fit=crop",
+    "caption": "Reaching new heights! 🏔️ The view from up here is absolutely breathtaking #mountains #climbing #adventure #summit",
+    "hashtags": ["mountains", "climbing", "adventure", "summit"],
+    "likes": 256,
+    "comments": [],
+    "timestamp": 1699718400000,
+    "isLiked": false,
+    "isSaved": true
+  },
+  {
+    "Id": 4,
+    "userId": "emma_creative",
+    "imageUrl": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=500&h=500&fit=crop",
+    "caption": "Coffee and creativity ☕✨ Starting the day with some design inspiration #coffee #design #creativity #morning",
+    "hashtags": ["coffee", "design", "creativity", "morning"],
+    "likes": 67,
+    "comments": [],
+    "timestamp": 1699632000000,
+    "isLiked": true,
+    "isSaved": false
+  },
+  {
+    "Id": 5,
+    "userId": "alex_foodie",
+    "imageUrl": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=500&h=500&fit=crop",
+    "caption": "Homemade pizza night! 🍕 Nothing beats fresh ingredients and good company #pizza #homemade #cooking #foodie",
+    "hashtags": ["pizza", "homemade", "cooking", "foodie"],
+    "likes": 143,
+    "comments": [],
+    "timestamp": 1699545600000,
+    "isLiked": false,
+    "isSaved": true
+  }
+]

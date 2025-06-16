@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "userId": "sarah_wilson",
+    "content": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=400&h=700&fit=crop",
+    "type": "image",
+    "timestamp": 1699891200000,
+    "expiresAt": 1699977600000,
+    "viewed": false
+  },
+  {
+    "Id": 2,
+    "userId": "mike_adventure",
+    "content": "https://images.unsplash.com/photo-1464822759844-d150baef493e?w=400&h=700&fit=crop",
+    "type": "image",
+    "timestamp": 1699887600000,
+    "expiresAt": 1699974000000,
+    "viewed": false
+  },
+  {
+    "Id": 3,
+    "userId": "emma_creative",
+    "content": "Working on something amazing! ✨",
+    "type": "text",
+    "timestamp": 1699884000000,
+    "expiresAt": 1699970400000,
+    "viewed": true
+  },
+  {
+    "Id": 4,
+    "userId": "alex_foodie",
+    "content": "https://images.unsplash.com/photo-1565299624946-b28f40a0ca4b?w=400&h=700&fit=crop",
+    "type": "image",
+    "timestamp": 1699880400000,
+    "expiresAt": 1699966800000,
+    "viewed": false
+  }
+]
